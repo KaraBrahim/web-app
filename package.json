@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "html5-qrcode": "^2.3.8",
-    "idb": "^8.0.3"
-  }
-}
